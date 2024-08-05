@@ -57,3 +57,17 @@ Se der algum erro de dependências digite:
 
 #### MAC:
 https://download1.rstudio.org/electron/macos/RStudio-2024.04.2-764.dmg
+
+## Pacotes do R para aula de Amplicon
+install.packages(dada2)
+install.packages(ShortReads)
+install.packages(vegan)
+
+# Aula de Genômica e Metagenômica
+
+## Se increver no Site KBase
+https://www.kbase.us/
+
+# Drive particular da Disciplina:
+https://drive.google.com/drive/folders/1wCBrVYsDOEz81CTeyHbi49rlSh_DEmqF?usp=drive_link
+
