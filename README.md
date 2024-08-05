@@ -2,9 +2,13 @@
 
 # CURSO PRE-SIMPOSIO
 Modalidad: Híbrida
+
 Intensidad horaria: 50h
+
 Cupos limitados: 25 personas
+
 Fecha: 6 de agosto – 15 de octubre
+
 Lugar: Plataforma meet - Auditorio del Jardín Botánico
 
 # OBJETIVOS:
