@@ -22,3 +22,19 @@ evolución, la funcionalidad genética y las adaptaciones específicas con aplic
 biotecnología, la medicina y la agricultura.
 Mostrar las metodologías necesarias para el estudio de microorganismos promotores de crecimiento
 vegetal y la producción de inoculantes.
+
+# SOFTWARES E SITES PARA CONSULTAR:
+
+## Instalar R e RStudio:
+### R:
+#### Windows:
+https://cloud.r-project.org/bin/windows/base/R-4.4.1-win.exe
+
+#### Linux:
+
+No terminal digite:
+```sudo apt update
+sudo apt install r-base r-base-dev```
+
+#### MAC:
+https://cloud.r-project.org/bin/macosx/big-sur-arm64/base/R-4.4.1-arm64.pkg
