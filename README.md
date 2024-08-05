@@ -34,7 +34,8 @@ https://cloud.r-project.org/bin/windows/base/R-4.4.1-win.exe
 
 No terminal digite:
 ```sudo apt update
-sudo apt install r-base r-base-dev```
+sudo apt install r-base r-base-dev
+```
 
 #### MAC:
 https://cloud.r-project.org/bin/macosx/big-sur-arm64/base/R-4.4.1-arm64.pkg
