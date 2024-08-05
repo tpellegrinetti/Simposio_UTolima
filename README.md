@@ -51,6 +51,7 @@ sudo dpkg -i rstudio-2024.04.2-764-amd64.deb
 ```
 
 Se der algum erro de dependências digite:
+
 ```sudo apt-get install -f
 ```
 
