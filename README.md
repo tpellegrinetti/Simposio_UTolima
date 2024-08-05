@@ -39,3 +39,20 @@ sudo apt install r-base r-base-dev
 
 #### MAC:
 https://cloud.r-project.org/bin/macosx/big-sur-arm64/base/R-4.4.1-arm64.pkg
+
+### RStudio:
+#### Windows:
+https://download1.rstudio.org/electron/windows/RStudio-2024.04.2-764.exe
+
+#### Linux:
+No terminal digite:
+```wget https://download1.rstudio.org/electron/focal/amd64/rstudio-2024.04.2-764-amd64.deb
+sudo dpkg -i rstudio-2024.04.2-764-amd64.deb
+```
+
+Se der algum erro de dependências digite:
+```sudo apt-get install -f
+```
+
+#### MAC:
+https://download1.rstudio.org/electron/macos/RStudio-2024.04.2-764.dmg
